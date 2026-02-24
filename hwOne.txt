@@ -1,1 +1,3 @@
 Hello, my name is Ethan and I am working on hw1
+
+Hello, our names are Ethan and Lorenzo and we are working on hw4
